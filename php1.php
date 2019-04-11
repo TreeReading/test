@@ -1,2 +1,1 @@
-</hph
-phpinfo();
+22
